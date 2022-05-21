@@ -89,7 +89,7 @@ for i in range(0,9):
 ![output](./img/8.png)
 ![output](./img/9.png)
 
-### Optimum Global Thesholding using Otsu's Method
+### Optimum Global Thesholding using Otsu's Method:
 
 ![output](./img/7.png)
 
